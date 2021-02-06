@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome 🌲
+
+
+## About me:
+- 🌱 I'm currently learning C++ and web development.
+- 🌱 I'm currently working on a discord bot.
+- 🌱 Fun fact: I like cats.
 
 <!--
 **leisure-cloud/leisure-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
